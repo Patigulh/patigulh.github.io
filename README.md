@@ -14,9 +14,9 @@ _Patigulh_ is written in _Hijilaiya_(ᖷiκinẓ̇ſż/xitɕ⁼i'laija/, lit."Sa
 The Latin transliteration below is never used by _Patikyou_ people, only by the author, in order to make _Patigulh_ more readable.
 
 There are recently 27 letters in _Hijilaiya_.
-
-|Letter|<span style="font-size: 200%;">ᐯv _ʋ_</span>|<span style="font-size: 200%;">ㄚy _ʯ_</span>|<span style="font-size: 200%;">ᐱʌ _л_</span>|<span style="font-size: 200%;">人ʎ _ɦ_</span>|
+||||||
 |---|:---:|:---:|:---:|:---:|
+|Letter|<span style="font-size: 200%;">ᐯv _ʋ_</span>|<span style="font-size: 200%;">ㄚy _ʯ_</span>|<span style="font-size: 200%;">ᐱʌ _л_</span>|<span style="font-size: 200%;">人ʎ _ɦ_</span>|
 |Phonetic|pʰ ‹p›|f ‹f›|p⁼ ‹b›|m ‹m›|
 |Letter|<span style="font-size: 200%;">ᐃɑ _ɑ_</span>|<span style="font-size: 200%;">ᗅq _ɋ_</span>|<span style="font-size: 200%;">ᐁɒ _ɒ_</span>|<span style="font-size: 200%;">ᗄb _ɓ_</span>|
 |Phonetic|tʰ ‹t›|s ‹s›|t⁼ ‹d›|ʃ~ʂ ‹c›|
@@ -36,7 +36,7 @@ There are recently 27 letters in _Hijilaiya_.
 |Letter|<span style="font-size: 200%;">S̱̄ṩ _s̗̀_</span>|<span style="font-size: 200%;">Ẕ̄ẓ̇ _ı̗̀_</span>| |
 |Phonetic|əʊ ‹ou›|aɪ ‹ai›| |
 
-| |Diagraphs|
+|||||||||||
 |---|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 |Letter|ɑq|ɒq|ɑb|ɒb|ṡi|ṣı̣|ᴚi|ʞi|κi|
 |Phonetic|tsʰ ‹ts›|ts⁼ ‹ds›|tʃ~tʂʰ ‹tc›|tʃ~tʂ⁼ ‹dc›|y ‹ui›|ø ‹oe›|tɕʰi ‹qi›|ɕi ‹xi›|tɕ⁼i ‹ji›|
