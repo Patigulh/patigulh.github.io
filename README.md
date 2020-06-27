@@ -15,8 +15,8 @@ The Latin transliteration below is never used by _Patikyou_ people, only by the 
 
 There are recently 27 letters in _Hijilaiya_.
 
-|---|:---:|:---:|:---:|:---:|
 |Letter|<span style="font-size: 200%;">ᐯv _ʋ_</span>|<span style="font-size: 200%;">ㄚy _ʯ_</span>|<span style="font-size: 200%;">ᐱʌ _л_</span>|<span style="font-size: 200%;">人ʎ _ɦ_</span>|
+|---|:---:|:---:|:---:|:---:|
 |Phonetic|pʰ ‹p›|f ‹f›|p⁼ ‹b›|m ‹m›|
 |Letter|<span style="font-size: 200%;">ᐃɑ _ɑ_</span>|<span style="font-size: 200%;">ᗅq _ɋ_</span>|<span style="font-size: 200%;">ᐁɒ _ɒ_</span>|<span style="font-size: 200%;">ᗄb _ɓ_</span>|
 |Phonetic|tʰ ‹t›|s ‹s›|t⁼ ‹d›|ʃ~ʂ ‹c›|
