@@ -1,3 +1,5 @@
+This page is basically a copy of [Patigulh on ConlangWikia](https://conlang.fandom.com/wiki/Patigulh). Which is basically a ~~English-translated~~ English-rewritten version of [帕提语](https://yuyan.fandom.com/zh/wiki/%E5%B8%95%E6%8F%90%E8%AF%AD). No, even worse, I started re-writing the origin Chinese version basing on this page. And it's likely that I'm gonna rewrite the Wikia page basing on this page.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Patigulh/patigulh.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
